@@ -1,1 +1,2 @@
 QCLSRC    BUILD     CLP       Installazione
+QPYSRC    DGCLASSIFYPY        plot_digits_classification.py
