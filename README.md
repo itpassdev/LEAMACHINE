@@ -203,6 +203,15 @@ In ogni momento possiamo filtrare l'archivio dei pacchetti PASE installati; ecco
 
 Ora se confrontiamo le versioni utilizzate in uno dei testi citati (vedi *Machine Learning con Python* a pagina 13) potremmo trovare ad esempio pandas 0.15.2: ci accorgiamo subito di come facilmente possano intercorrere cambiamenti che possono crearci qualche difficoltà (almeno agli inizi).
 
+Il comando per installare nuovi pacchetti è `/QOpenSys/pkgs/bin/yum install` seguito dal nome del pacchetto che si vuole installare. Il valore di yum è -principalmente- quello di garantire che le dipendenze che caratterizzano il pacchetto siano rispettate (e quindi installate se mancanti).
+
+Come è noto impostando `export PATH=/QOpenSys/pkgs/bin:$PATH` si può successivamente omettere il percorso ove risiedono i comandi e lanciare direttamente `yum` o `python3`. 
+
+## HANDS ON
+
+Proviamo ad utilizzare alcuni pacchetti per testare il nostro ambiente.
+
+* [scikit-learn](hands_on/scikit-learn.md)
 
 
 
