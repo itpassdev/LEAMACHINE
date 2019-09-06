@@ -207,6 +207,16 @@ Il comando per installare nuovi pacchetti è `/QOpenSys/pkgs/bin/yum install` se
 
 Come è noto impostando `export PATH=/QOpenSys/pkgs/bin:$PATH` si può successivamente omettere il percorso ove risiedono i comandi e lanciare direttamente `yum` o `python3`. 
 
+In molti esempi su internet si fa riferimento alla libreria **matplotlib** che purtroppo non è disponibile...                                       
+
+```
+  $                                         
+> yum install matplotlib                    
+  Impostazione processo di installazione    
+  Nessun pacchetto matplotlib disponibile.  
+  Errore: Niente da fare                    
+```
+
 ## HANDS ON
 
 Proviamo ad utilizzare alcuni pacchetti per testare il nostro ambiente.
