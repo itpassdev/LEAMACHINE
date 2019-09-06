@@ -14,7 +14,7 @@ che è stato motivato nel seguente modo:
 
 * [IBM i Gets An Influx Of Machine Learning Tooling](https://www.itjungle.com/2018/07/25/ibm-i-gets-an-influx-of-machine-learning-tooling/) è un editoriale pubblicato il 25 Luglio 2018 da *Alex Woodie* su *IT Jungle* in cui ci sono stralci di una intervista a *Jesse Gorzinski* (erroneamente indicato lungo tutto l'articolo come G**ro**zinski) in cui il risvolto più interessante è la menzione al primo impatto del rilascio in ambiente IBM i di Python (2015 all'interno del 5733-OPS). Alcuni clienti provarono subito ad installare i pacchetti Python dedicati al machine learning (non a caso il Machine Learning sembra essere il motivo propulsore del successo di Python degli ultimi anni) e gli sviluppatori IBM scoprirono che nessuno di essi (Numpy, Pandas, SciPy, ecc) riusciva a funzionare, neppure lontanamente.
 
-* [Installing and configuring Python machine learning packages on IBM AIX](https://developer.ibm.com/tutorials/machine-learning-with-python-on-aix/) tutorial per AIX che può essere adottato come traccia per realizzare un percorso di installazione simile su IBM i
+* [Installing and configuring Python machine learning packages on IBM AIX](https://developer.ibm.com/tutorials/machine-learning-with-python-on-aix/) tutorial per AIX che può essere adottato come traccia per realizzare un percorso di installazione simile su IBM i (autori: *Sanket Rathi - Phani Kumar Ayyagari*). Viene descritta l'installazione di **Jupiter Notebook** che è lo strumento adottato nel testo *Machine Learning For Dummies*. 
 
 * [Dispense del Corso sul Machine Learning del Prof. Davide Maltoni](http://bias.csr.unibo.it/maltoni/ml/) dell'Università di Bologna -segnalate da Federico-
 
