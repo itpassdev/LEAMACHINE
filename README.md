@@ -16,6 +16,8 @@ che è stato motivato nel seguente modo:
 
 * [Installing and configuring Python machine learning packages on IBM AIX](https://developer.ibm.com/tutorials/machine-learning-with-python-on-aix/) tutorial per AIX che può essere adottato come traccia per realizzare un percorso di installazione simile su IBM i (autori: *Sanket Rathi - Phani Kumar Ayyagari*). Viene descritta l'installazione di **Jupyter Notebook** che è lo strumento adottato nel testo *Machine Learning For Dummies*. 
 
+* [R Comes To i](https://www.itjungle.com/2019/05/01/r-comes-to-i/) è un editoriale pubblicato il 1° Maggio 2019 da *Alex Woodie* su *IT Jungle* in merito alla prima introduzione di del linguaggio **R** su IBM i (sempre attraverso l'ambiente PASE)
+
 * [Dispense del Corso sul Machine Learning del Prof. Davide Maltoni](http://bias.csr.unibo.it/maltoni/ml/) dell'Università di Bologna -segnalate da Federico-
 
 * [MATLAB per il Machine Learning](https://it.mathworks.com/solutions/machine-learning.html) materiale -segnalato da Enzo- focalizzato su MATLAB e quindi relativo ad un ambiente integrato ad un prodotto SW non Open Source: tra i punti di forza si enfatizza la *esecuzione più rapida rispetto all’open source sulla maggior parte dei calcoli statistici e di machine learning*
