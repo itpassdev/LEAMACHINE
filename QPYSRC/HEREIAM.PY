@@ -12,4 +12,4 @@ print(__doc__)
 
 import os                                       
 for param in os.environ.keys():                 
-    print("%25s %s" % (param, os.environ[param])) 
+    print("%23s %s" % (param, os.environ[param])) 
