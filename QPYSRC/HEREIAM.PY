@@ -1,10 +1,10 @@
 #!/QOpenSys/pkgs/bin/python3                    
 """
-================================
-LEAMACHINE - showing Python env
-================================
+=================================
+  HereIAm - mostra informazioni
+=================================
 
-
+Può essere arricchito di altre informazioni raccolte interrogando il sistema via Python...
 """
 print(__doc__)
 
