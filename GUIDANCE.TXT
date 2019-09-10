@@ -1,2 +1,2 @@
 QCLSRC    BUILD     CLP       Installazione
-QPYSRC    DGCLASSIFYPY        plot_digits_classification.py
+QPYSRC    HEREIAM   PY        plot_digits_classification.py
