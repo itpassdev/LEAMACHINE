@@ -16,6 +16,8 @@ che è stato motivato nel seguente modo:
 
 * [Installing and configuring Python machine learning packages on IBM AIX](https://developer.ibm.com/tutorials/machine-learning-with-python-on-aix/) tutorial per AIX che può essere adottato come traccia per realizzare un percorso di installazione simile su IBM i (autori: *Sanket Rathi - Phani Kumar Ayyagari*). Viene descritta l'installazione di **Jupyter Notebook** che è lo strumento adottato nel testo *Machine Learning For Dummies*. 
 
+* [September 24th](http://ibmsystemsmag.com/Power-Systems/8/2019/RPMs-and-YUM-on-IBM-i-7-1) articolo di *Kevin Adler* (e *Jesse Gorzinski*) che spiega perchè gli RPM dell'Open Source su IBM i verranno allineati tutti alla versione 7.2.
+
 * [R Comes To i](https://www.itjungle.com/2019/05/01/r-comes-to-i/) è un editoriale pubblicato il 1° Maggio 2019 da *Alex Woodie* su *IT Jungle* in merito alla prima introduzione del linguaggio **R** su IBM i (sempre attraverso l'ambiente PASE)
 
 * [Dispense del Corso sul Machine Learning del Prof. Davide Maltoni](http://bias.csr.unibo.it/maltoni/ml/) dell'Università di Bologna -segnalate da Federico-
