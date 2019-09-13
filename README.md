@@ -18,6 +18,8 @@ che è stato motivato nel seguente modo:
 
 * [September 24th](http://ibmsystemsmag.com/Power-Systems/8/2019/RPMs-and-YUM-on-IBM-i-7-1) articolo di *Kevin Adler* (e *Jesse Gorzinski*) che spiega perchè gli RPM dell'Open Source su IBM i verranno allineati tutti alla versione 7.2.
 
+* [IBM Q](http://ibmsystemsmag.com/Power-Systems/09/2019/get-started-with-IBM-q) articolo di *Jesse Gorzinski* da cui si evince che molte novità IBM passano ormai attraverso l'ambiente PASE.
+
 * [R Comes To i](https://www.itjungle.com/2019/05/01/r-comes-to-i/) è un editoriale pubblicato il 1° Maggio 2019 da *Alex Woodie* su *IT Jungle* in merito alla prima introduzione del linguaggio **R** su IBM i (sempre attraverso l'ambiente PASE)
 
 * [Dispense del Corso sul Machine Learning del Prof. Davide Maltoni](http://bias.csr.unibo.it/maltoni/ml/) dell'Università di Bologna -segnalate da Federico-
