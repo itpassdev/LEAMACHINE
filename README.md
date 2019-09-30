@@ -27,6 +27,8 @@ che è stato motivato nel seguente modo:
 * [MATLAB per il Machine Learning](https://it.mathworks.com/solutions/machine-learning.html) materiale -segnalato da Enzo- focalizzato su MATLAB e quindi relativo ad un ambiente integrato ad un prodotto SW non Open Source: tra i punti di forza si enfatizza la *esecuzione più rapida rispetto all’open source sulla maggior parte dei calcoli statistici e di machine learning*
 
 
+* [Analisi Comportamentale](https://www.bitmat.it/blog/news/89079/machine-learning-e-analisi-comportamentale), link suggerito da Enzo 
+
 ## TESTI INTERESSANTI
 Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per approfondire l'argomento: li elenco procedendo dal generale al particolare.
 
