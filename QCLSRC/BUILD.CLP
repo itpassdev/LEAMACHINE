@@ -15,4 +15,8 @@ MKDIR DIR('/QOpenSys/LeaMachine')
 MONMSG     MSGID(CPF0000)
 CPYTOSTMF  FROMMBR(&IFSPATH) TOSTMF('/QOpenSys/LeaMachine/HereIAm.py') +
              STMFOPT(*REPLACE) STMFCCSID(1208) ENDLINFMT(*LF)
+CRTCLPGM   PGM(&TGTLIB/JUPYTER)   +
+                        SRCFILE(&SRCLIB/QCLSRC) +
+                        ALWRTVSRC(*NO)          +
+                        OUTPUT(*NONE)
 ENDPGM
