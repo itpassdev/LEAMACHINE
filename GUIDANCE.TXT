@@ -1,2 +1,3 @@
 QCLSRC    BUILD     CLP       Installazione
+QCLSRC    JUPYTER   CLP       Avvio yupyter notebook
 QPYSRC    HEREIAM   PY        plot_digits_classification.py
