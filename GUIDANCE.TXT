@@ -1,0 +1,2 @@
+QCLSRC    BUILD     CLP       Installazione
+QCLSRC    JUPYTER   CLP       Avvio yupyter notebook
