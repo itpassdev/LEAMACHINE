@@ -29,6 +29,8 @@ che è stato motivato nel seguente modo:
 
 * [Analisi Comportamentale](https://www.bitmat.it/blog/news/89079/machine-learning-e-analisi-comportamentale), link suggerito da Enzo 
 
+* [From gnuplot to matplotlib](https://ds9a.nl/articles/posts/from-gnuplot-to-matplotlib-pandas/)
+
 ## TESTI INTERESSANTI
 Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per approfondire l'argomento: li elenco procedendo dal generale al particolare.
 
