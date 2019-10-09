@@ -2,4 +2,5 @@ QCLSRC    BUILD     CLP       Installazione
 QCLSRC    JUPYTER   CLP       Avvio yupyter notebook
 QPYSRC    HEREIAM   PY        plot_digits_classification.py
 QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
+QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
 QIPYNBSRC LEAMACH001IPYNB     Notebook: leamach0001.ipynb
