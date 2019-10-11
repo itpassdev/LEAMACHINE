@@ -217,7 +217,9 @@ Il comando per installare nuovi pacchetti è `/QOpenSys/pkgs/bin/yum install` se
 
 Come è noto impostando `export PATH=/QOpenSys/pkgs/bin:$PATH` si può successivamente omettere il percorso ove risiedono i comandi e lanciare direttamente `yum` o `python3`. 
 
-In molti esempi su internet si fa riferimento alla libreria **matplotlib** che purtroppo non è disponibile...                                       
+In molti esempi su internet si fa riferimento alla libreria **matplotlib** che ora è disponibile anche su IBM i.                                       
+La installazione di *matplotlib* è stata possibile tramite **pip**: il *package installer for Python*. 
+I pacchetti per Python possono essere installati nella modalità Python (rispetto all'uso di **yum**).
 
 ```
   $                                         
