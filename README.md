@@ -221,13 +221,6 @@ In molti esempi su internet si fa riferimento alla libreria **matplotlib** che o
 La installazione di *matplotlib* è stata possibile tramite **pip**: il *package installer for Python*. 
 I pacchetti per Python possono essere installati nella modalità Python (rispetto all'uso di **yum**).
 
-```
-  $                                         
-> yum install matplotlib                    
-  Impostazione processo di installazione    
-  Nessun pacchetto matplotlib disponibile.  
-  Errore: Niente da fare                    
-```
 
 ## HANDS ON
 
