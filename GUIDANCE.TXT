@@ -5,3 +5,4 @@ QPYSRC    HEREIAM   PY        plot_digits_classification.py
 QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
 QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
 QIPYNBSRC LEAMACH001JNB       Notebook: LeaMach0001.ipynb
+QIPYNBSRC ML4I      JNB       Notebook: ML4i.ipynb
