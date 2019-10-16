@@ -4,4 +4,4 @@ QCLSRC    STRJUPYTERCLP       Avvio yupyter notebook (SBMJOB)
 QPYSRC    HEREIAM   PY        plot_digits_classification.py
 QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
 QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
-QIPYNBSRC LEAMACH001IPYNB     Notebook: leamach0001.ipynb
+QIPYNBSRC LEAMACH001JNB       Notebook: LeaMach0001.ipynb
