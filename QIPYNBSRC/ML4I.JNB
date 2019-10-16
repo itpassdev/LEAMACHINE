@@ -12,7 +12,7 @@
    "metadata": {},
    "source": [
     "\n",
-    "Utilizziamo direttamente **Jupyter Notebook** perchè rappresenta una vera",
+    "Utilizziamo direttamente **Jupyter Notebook** perchè rappresenta una vera ",
     "rivoluzione per l'ambiente IBM i.<br/>\n",
     "Nasce dall'ambiente scientifico e caratterizza il successo di **Python** ",
     "come scripting language in maggiore crescita. Due siti che analizzano i ",
@@ -33,7 +33,7 @@
     "console.log(\"Hello World\")\n",
     "```\n",
     "\n",
-    "Ma la cosa sensazionale è che possiamo **eseguire** le elaborazioni Python in",
+    "Ma la cosa sensazionale è che possiamo **eseguire** le elaborazioni Python in ",
     "diretta alternando sezioni di testo a sezioni di codice.\n",
     "\n",
     "```python\n",
