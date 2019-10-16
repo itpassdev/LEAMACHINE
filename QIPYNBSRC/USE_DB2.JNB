@@ -16,7 +16,8 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "sql = \"SELECT JOB_NAME, JOB_TYPE, JOB_ACTIVE_TIME FROM TABLE(QSYS2.ACTIVE_JOB_INFO(DETAILED_INFO => 'ALL', JOB_NAME_FILTER => 'JUPYTER'))\"\n",
+    "sql = \"SELECT JOB_NAME, JOB_TYPE, JOB_ACTIVE_TIME FROM TABLE",
+    "(QSYS2.ACTIVE_JOB_INFO(DETAILED_INFO => 'ALL', JOB_NAME_FILTER => 'JUPYTER'))\"\n",
     "stmt = ibm_db.exec_immediate(conn, sql)\n",
     "result = ibm_db.fetch_both(stmt)\n",
     "while( result ):\n",
