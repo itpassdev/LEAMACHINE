@@ -43,6 +43,8 @@ Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per ap
 * **Machine Learning con Python** *Sebastian Raschka* <br/> è anch'esso un testo pratico -pubblicato da APOGEO nel 2016- che si focalizza su librerie **Python** (utilizza *NumPy*, *SciPy*, *scikit-learn*, *matplotlib* e *pandas*)
 * **Machine Learning For Dummies** *John Mueller - Luca Massaron* <br/>
 è un testo più recente (2019) che traduce l'originale inglese del 2016 -*Wiley*- ed è pubblicato in Italia da *Hoepli*. Il vantaggio è che essendo uno dei coautori italiano, il testo è stato completamente rivisitato nella parte pratica per concludere la migrazione da Python2 e Python3 che non era ancora completa nel 2016. Il testo introduce all'uso di **Python** e **R**.
+* **L'Algoritmo Definitivo** *Pedro Domingos* <br/>
+pubblicato da Boringhieri tra i *Saggi - Scienze*, presenta le radici culturali che hanno portato alla rivoluzione del *Machine Learning*. Apre con una frase ad effetto: *"Forse non lo sapete, ma il machine learning vi ha circondato"* 
 
 Poiché la idea del gruppo di lavoro ITPASS è volta a valorizzare il porting che IBM ha effettuato di Python ed R in ambito **PASE** ritengo che gli ultimi due testi potranno essere decisamente interessanti. 
 
