@@ -6,3 +6,5 @@ QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
 QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
 QIPYNBSRC LEAMACH001JNB       Notebook: LeaMach0001.ipynb
 QIPYNBSRC ML4I      JNB       Notebook: ML4i.ipynb
+QIPYNBSRC PESARO_1  JNB       Notebook: Benvenuto.ipynb
+QIPYNBSRC USE_DB2   JNB       Notebook: Accesso al DB2.ipynb

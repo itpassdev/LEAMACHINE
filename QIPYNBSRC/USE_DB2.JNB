@@ -1,0 +1,49 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import ibm_db\n",
+    "conn = ibm_db.connect(\"*LOCAL\",\"JUPYTER\",\"RetypuJ\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sql = \"SELECT JOB_NAME, JOB_TYPE, JOB_ACTIVE_TIME FROM TABLE(QSYS2.ACTIVE_JOB_INFO(DETAILED_INFO => 'ALL', JOB_NAME_FILTER => 'JUPYTER'))\"\n",
+    "stmt = ibm_db.exec_immediate(conn, sql)\n",
+    "result = ibm_db.fetch_both(stmt)\n",
+    "while( result ):\n",
+    "        print(result[0], result[1], result[2])\n",
+    "        result = ibm_db.fetch_both(stmt)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
