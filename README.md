@@ -54,6 +54,9 @@ Il primo obiettivo di questo repository sarà documentare i passi per installare
 
 Partiamo dalla ipotesi che abbiate già installato **yum** sul vostro sistema IBM i (gli esempi sono basati su una versione 7.3)
 
+
+### aggiornamento (update)
+
 Vogliamo procedere all'aggiornamento dei pacchetti installati.
 Lanciamo **QSH** e proviamo ad eseguire `yum update`:
 
@@ -76,33 +79,7 @@ Se non risultano conflitti si può procedere con l'aggiornamento:
   --> Esecuzione del controllo di transazione                                   
   ---> Package bash.ppc64 0:4.4-0 will be aggiornato                            
   ---> Package bash.ppc64 0:4.4-1 will be an update                             
-  ---> Package libgcc_s1.ppc64 0:6.3.0-19 will be aggiornato                    
-  ---> Package libgcc_s1.ppc64 0:6.3.0-24 will be an update                     
-  ---> Package liblzma5.ppc64 0:5.2.3-0 will be aggiornato                      
-  ---> Package liblzma5.ppc64 0:5.2.3-3 will be an update                       
-  ---> Package libtool.ppc64 0:2.4.6-3 will be aggiornato                       
-  ---> Package libtool.ppc64 0:2.4.6-4 will be an update                        
-  --> Elaborazione dipendenza: grep-gnu per il pacchetto: libtool-2.4.6-4.ppc64 
-  ---> Package libutil1.ppc64 0:0.3-0 will be aggiornato                                                                      
-  ---> Package libutil1.ppc64 0:0.3-99 will be an update                                                                      
-  ---> Package libz1.ppc64 0:1.2.11-1 will be aggiornato                                                                      
-  ---> Package libz1.ppc64 0:1.2.11-2 will be an update                                                                       
-  ---> Package nodejs10.ppc64 0:10.15.3-0 will be aggiornato                                                                  
-  ---> Package nodejs10.ppc64 0:10.16.3-1 will be an update                                                                   
-  ---> Package python2.ppc64 0:2.7.15-1 will be aggiornato                                                                    
-  ---> Package python2.ppc64 0:2.7.16-1 will be an update                                                                     
-  --> Elaborazione dipendenza: lib:/QOpenSys/pkgs/lib/libutil.so.2(shr_64.o)(ppc64) per il pacchetto: python2-2.7.16-1.ppc64  
-  ---> Package python2-rpm.ppc64 0:4.13.0.1-13 will be aggiornato                                                             
-  ---> Package python2-rpm.ppc64 0:4.13.0.1-17 will be an update                                                              
-  ---> Package rpm.ppc64 0:4.13.0.1-13 will be aggiornato                                                                     
-  ---> Package rpm.ppc64 0:4.13.0.1-17 will be an update                                                                      
-  ---> Package yum.noarch 0:3.4.3-15 will be aggiornato                                                                       
-  ---> Package yum.noarch 0:3.4.3-17 will be an update                                                                        
-  --> Elaborazione dipendenza: python2-iniparse per il pacchetto: yum-3.4.3-17.noarch                                         
-  ---> Package zlib-devel.ppc64 0:1.2.11-1 will be aggiornato                                                                 
-  ---> Package zlib-devel.ppc64 0:1.2.11-2 will be an update                        
-  --> Esecuzione del controllo di transazione                                       
-  ---> Package grep-gnu.ppc64 0:3.0-0 will be installato                            
+  . . .
   ---> Package libutil2.ppc64 0:0.6.1-0 will be installato                          
   ---> Package python2-iniparse.noarch 0:0.4-1 will be installato                   
   --> Risoluzione delle dipendenze completata                                       
@@ -116,11 +93,7 @@ Se non risultano conflitti si può procedere con l'aggiornamento:
    bash                     ppc64          4.4-1                ibm         2.1 M   
    libgcc_s1                ppc64          6.3.0-24             ibm         197 k   
    liblzma5                 ppc64          5.2.3-3              ibm         265 k   
-   libtool                  ppc64          2.4.6-4              ibm         688 k   
-   libutil1                 ppc64          0.3-99               ibm          14 k    
-   libz1                    ppc64          1.2.11-2             ibm          71 k    
-   nodejs10                 ppc64          10.16.3-1            ibm          22 M    
-   python2                  ppc64          2.7.16-1             ibm          26 M    
+   . . .
    python2-rpm              ppc64          4.13.0.1-17          ibm         275 k    
    rpm                      ppc64          4.13.0.1-17          ibm         2.2 M    
    yum                      noarch         3.4.3-17             ibm         1.2 M    
@@ -140,17 +113,7 @@ Se non risultano conflitti si può procedere con l'aggiornamento:
   Download dei pacchetti:                                                     
   (1/15): bash-4.4-1.ibmi7.1.ppc64.rpm                        | 2.1 MB  00:01 
   (2/15): grep-gnu-3.0-0.ibmi7.1.ppc64.rpm                    | 515 kB  00:00 
-  (3/15): libgcc_s1-6.3.0-24.ibmi7.1.ppc64.rpm                | 197 kB  00:00 
-  (4/15): liblzma5-5.2.3-3.ibmi7.1.ppc64.rpm                  | 265 kB  00:00 
-  (5/15): libtool-2.4.6-4.ibmi7.1.ppc64.rpm                   | 688 kB  00:00 
-  (6/15): libutil1-0.3-99.ibmi7.1.ppc64.rpm                   |  14 kB  00:00 
-  (7/15): libutil2-0.6.1-0.ibmi7.1.ppc64.rpm                  |  16 kB  00:00 
-  (8/15): libz1-1.2.11-2.ibmi7.1.ppc64.rpm                    |  71 kB  00:00 
-  (9/15): nodejs10-10.16.3-1.ibmi7.2.ppc64.rpm                |  22 MB  00:18 
-  (10/15): python2-2.7.16-1.ibmi7.1.ppc64.rpm                 |  26 MB  00:22 
-  (11/15): python2-iniparse-0.4-1.ibmi7.1.noarch.rpm          |  28 kB  00:00 
-  (12/15): python2-rpm-4.13.0.1-17.ibmi7.1.ppc64.rpm          | 275 kB  00:00 
-  (13/15): rpm-4.13.0.1-17.ibmi7.1.ppc64.rpm                  | 2.2 MB  00:01      
+  . . . 
   (14/15): yum-3.4.3-17.ibmi7.1.noarch.rpm                    | 1.2 MB  00:00      
   (15/15): zlib-devel-1.2.11-2.ibmi7.1.ppc64.rpm              |  38 kB  00:00      
   -------------------------------------------------------------------------------- 
@@ -162,28 +125,13 @@ Test di transazione eseguito con successo
 Transazione in corso                                                             
   Aggiornamento     : libgcc_s1-6.3.0-24.ppc64                             1/27  
   Aggiornamento     : libz1-1.2.11-2.ppc64                                 2/27  
-  Installazione     : libutil2-0.6.1-0.ppc64                               3/27  
-  Aggiornamento     : python2-2.7.16-1.ppc64                               4/27  
-  Aggiornamento     : bash-4.4-1.ppc64                                     5/27  
-  Installazione     : python2-iniparse-0.4-1.noarch                        6/27  
-  Aggiornamento     : liblzma5-5.2.3-3.ppc64                               7/27  
-  Aggiornamento     : rpm-4.13.0.1-17.ppc64                                8/27  
-  Aggiornamento     : python2-rpm-4.13.0.1-17.ppc64                        9/27
-  Installazione     : grep-gnu-3.0-0.ppc64                                10/27
-  Aggiornamento     : libtool-2.4.6-4.ppc64                               11/27
-  Aggiornamento     : yum-3.4.3-17.noarch                                 12/27
-  Aggiornamento     : nodejs10-10.16.3-1.ppc64                            13/27
+  . . .
   Aggiornamento     : zlib-devel-1.2.11-2.ppc64                           14/27
   Aggiornamento     : libutil1-0.3-99.ppc64                               15/27
   Pulizia           : nodejs10-10.15.3-0.ppc64                            16/27
   Pulizia           : yum-3.4.3-15.noarch                                 17/27
   Pulizia           : python2-rpm-4.13.0.1-13.ppc64                       18/27
-  Pulizia           : rpm-4.13.0.1-13.ppc64                               19/27
-  Pulizia           : liblzma5-5.2.3-0.ppc64                              20/27
-  Pulizia           : python2-2.7.15-1.ppc64                              21/27
-  Pulizia           : libutil1-0.3-0.ppc64                                22/27
-  Pulizia           : zlib-devel-1.2.11-1.ppc64                           23/27
-  Pulizia           : libz1-1.2.11-1.ppc64                                24/27
+  . . . 
   Pulizia           : libtool-2.4.6-3.ppc64                               25/27
   Pulizia           : libgcc_s1-6.3.0-19.ppc64                            26/27   
   Pulizia           : bash-4.4-0.ppc64                                    27/27   
@@ -225,6 +173,9 @@ Come è noto impostando `export PATH=/QOpenSys/pkgs/bin:$PATH` si può successiv
 In molti esempi su internet si fa riferimento alla libreria **matplotlib** che ora è disponibile anche su IBM i.                                       
 La installazione di *matplotlib* è stata possibile tramite **pip**: il *package installer for Python*. 
 I pacchetti per Python possono essere installati nella modalità Python (rispetto all'uso di **yum**).
+
+### specifici per Machine Learning con Python
+
 
 
 ## HANDS ON
