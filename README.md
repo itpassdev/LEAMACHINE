@@ -174,6 +174,20 @@ In molti esempi su internet si fa riferimento alla libreria **matplotlib** che o
 La installazione di *matplotlib* è stata possibile tramite **pip**: il *package installer for Python*. 
 I pacchetti per Python possono essere installati nella modalità Python (rispetto all'uso di **yum**).
 
+```
+  $                                                                                                                                
+> pip3 install matplotlib                                                                                                          
+  Requirement already satisfied: matplotlib in /QOpenSys/pkgs/lib/python3.6/site-packages (3.1.1)                                  
+  Requirement already satisfied: cycler>=0.10 in /QOpenSys/pkgs/lib/python3.6/site-packages (from matplotlib) (0.10.0)             
+  Requirement already satisfied: kiwisolver>=1.0.1 in /QOpenSys/pkgs/lib/python3.6/site-packages (from matplotlib) (1.1.0)         
+  Requirement already satisfied: python-dateutil>=2.1 in /QOpenSys/pkgs/lib/python3.6/site-packages (from matplotlib) (2.8.0)      
+  Requirement already satisfied: numpy>=1.11 in /QOpenSys/pkgs/lib/python3.6/site-packages (from matplotlib) (1.15.4)              
+  Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /QOpenSys/pkgs/lib/python3.6/site-packages (from matplotlib) (2.4.2)                                                                                                                   
+  Requirement already satisfied: six in /QOpenSys/pkgs/lib/python3.6/site-packages (from cycler>=0.10->matplotlib) (1.10.0)        
+  Requirement already satisfied: setuptools in /QOpenSys/pkgs/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib) (36.0.1)                                                                                                                             
+  $                                                                                                                                
+```
+
 ### specifici per Machine Learning con Python
 
 
