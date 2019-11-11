@@ -38,6 +38,10 @@ che è stato motivato nel seguente modo:
 
 * [From gnuplot to matplotlib](https://ds9a.nl/articles/posts/from-gnuplot-to-matplotlib-pandas/)
 
+* [seaborn](https://seaborn.pydata.org/index.html)
+
+* [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 ## TESTI INTERESSANTI
 Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per approfondire l'argomento: li elenco procedendo dal generale al particolare.
 
