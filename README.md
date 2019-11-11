@@ -16,6 +16,8 @@ che è stato motivato nel seguente modo:
 
 ## LINK INTERESSANTI
 
+* [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) utile schematizzazione per capire il posizionamento relativo delle competenze che concorrono alla definizione di **data science**.
+
 * [How to Start With Machine Learning on IBM i](https://ibmsystemsmag.com/Power-Systems/11/2019/How-to-Start-ml-on-IBM-i) è il primo articolo di *Gan Zhang*, *Yong Qing Lu* e *Li Hua Zhao* che sono incaricati del tema Machine Learning su IBM i. E' stato pubblicato il 4 Novembre 2019.
 
 * [machinelearning su IBM i](https://github.com/IBM/ibmi-oss-examples/tree/master/machinelearning) sotto cartella GitHub del repository dedicato agli esempi di Open Source per IBM i.
@@ -40,7 +42,8 @@ che è stato motivato nel seguente modo:
 
 * [seaborn](https://seaborn.pydata.org/index.html)
 
-* [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) la intera pubblicazione è disponibile in formato Jupyter Notebook.
+
 
 ## TESTI INTERESSANTI
 Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per approfondire l'argomento: li elenco procedendo dal generale al particolare.
