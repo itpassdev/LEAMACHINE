@@ -5,6 +5,6 @@ ADDENVVAR ENVVAR(QIBM_PASE_CCSID) VALUE(1208)
 MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(QIBM_MULTI_THREADED) VALUE('Y')
 MONMSG    MSGID(CPF0000)
-CALL      PGM(QP2SHELL) PARM('/QOpenSys/pkgs/bin/jupyter' 'notebook')
-/* QSH       CMD('/QOpenSys/pkgs/bin/jupyter notebook') */
+CALL      PGM(QP2SHELL) PARM('/QOpenSys/pkgs/bin/jupyter' 'lab')
+/* QSH       CMD('/QOpenSys/pkgs/bin/jupyter lab') */
 ENDPGM
