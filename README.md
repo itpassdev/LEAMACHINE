@@ -10,6 +10,8 @@ che è stato motivato nel seguente modo:
 
 *a seguito dei più recenti rilasci di Python (e R) per IBM i sembra aprirsi la strada all'uso diretto (in ambito PASE) di strumenti di machine learning: vorremmo condividere insieme lo studio di questa tematica e valutare la possibilità di strutturare un metodo di lavoro che possa servire agli associati per proporsi sul mercato con competenze nuove.*
 
+**JupyterLab** è una interfaccia basata su web che rappresenta la naturale evoluzione di **Jupyter Notebook**.
+
 ## INCONTRI
 
 * **Pesaro, 19 Ottobre 2019** <br/>Primo incontro all'interno del *Workshop ITPASS*
