@@ -1,6 +1,8 @@
 QCLSRC    BUILD     CLP       Installazione
-QCLSRC    JUPYTER   CLP       Avvio yupyter notebook
-QCLSRC    STRJUPYTERCLP       Avvio yupyter notebook (SBMJOB)
+QCLSRC    JUPYTER   CLP       Avvio Jupyter Notebook
+QCLSRC    STRJUPYTERCLP       Avvio Jupyter Notebook (SBMJOB)
+QCLSRC    JUPYTERLABCLP       Avvio JupyterLab 
+QCLSRC    STRJUPYLABCLP       Avvio JupyterLab (SBMJOB)
 QPYSRC    HEREIAM   PY        plot_digits_classification.py
 QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
 QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
