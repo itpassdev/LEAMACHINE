@@ -14,6 +14,10 @@ che è stato motivato nel seguente modo:
 
 * **Pesaro, 19 Ottobre 2019** <br/>Primo incontro all'interno del *Workshop ITPASS*
 
+## PRESENTAZIONI
+
+* **Milano, 21 Novembre 2019** *Python and Jupyter Notebook running in PASE*
+
 ## LINK INTERESSANTI
 
 * [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) utile schematizzazione per capire il posizionamento relativo delle competenze che concorrono alla definizione di **data science**.
