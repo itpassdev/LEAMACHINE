@@ -57,6 +57,14 @@ CRTCLPGM   PGM(&TGTLIB/STRJUPYTER)   +
              SRCFILE(&SRCLIB/QCLSRC) +
              ALWRTVSRC(*NO)          +       
              OUTPUT(*NONE)    
+CRTCLPGM   PGM(&TGTLIB/JUPYTERLAB)   +
+             SRCFILE(&SRCLIB/QCLSRC) +
+             ALWRTVSRC(*NO)          +       
+             OUTPUT(*NONE)    
+CRTCLPGM   PGM(&TGTLIB/STRJUPYLAB)   +
+             SRCFILE(&SRCLIB/QCLSRC) +
+             ALWRTVSRC(*NO)          +       
+             OUTPUT(*NONE)    
 DLTLIB     LIB(&BLDLIB)     
 MONMSG     MSGID(CPF0000)   
 ENDPGM
