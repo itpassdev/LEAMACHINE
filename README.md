@@ -22,6 +22,7 @@ che è stato motivato nel seguente modo:
 
 ## LINK INTERESSANTI
 
+* [Elements of AI](https://www.elementsofai.com/) A free online introduction to artificial intelligence for non-experts
 * [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) utile schematizzazione per capire il posizionamento relativo delle competenze che concorrono alla definizione di **data science**.
 
 * [How to Start With Machine Learning on IBM i](https://ibmsystemsmag.com/Power-Systems/11/2019/How-to-Start-ml-on-IBM-i) è il primo articolo di *Gan Zhang*, *Yong Qing Lu* e *Li Hua Zhao* che sono incaricati del tema Machine Learning su IBM i. E' stato pubblicato il 4 Novembre 2019.
