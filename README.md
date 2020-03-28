@@ -22,6 +22,9 @@ che è stato motivato nel seguente modo:
 
 ## LINK INTERESSANTI
 
+
+* [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
+
 * [Elements of AI](https://www.elementsofai.com/) A free online introduction to artificial intelligence for non-experts
 * [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) utile schematizzazione per capire il posizionamento relativo delle competenze che concorrono alla definizione di **data science**.
 
