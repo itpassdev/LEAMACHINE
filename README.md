@@ -22,6 +22,7 @@ che è stato motivato nel seguente modo:
 
 ## LINK INTERESSANTI
 
+* [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) sull'uso dei comandi da tastiera
 
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
 
