@@ -53,3 +53,15 @@ Ad ogni pressione del bottone viene avviata una nuova sessione di terminale che 
 
 ![IDE](JupyterLabActive.png)
 
+Opportunamente configurato il terminale deve utilizzare la **bash** shell resa disponibile da IBM via yum nel percorso `/QOpenSys/pkgs`.
+Importanti per una installazione su server localizzato in **Italia** i seguenti due parametri di ambiente: `QIBM_PASE_CCSID`  e `PASE_LANG`.
+Possiamo visualizzarne il valore corrente con il comando *echo*:
+
+```
+bash-4.4$ echo $QIBM_PASE_CCSID
+1208
+bash-4.4$ echo $PASE_LANG
+IT_IT
+```
+
+  
