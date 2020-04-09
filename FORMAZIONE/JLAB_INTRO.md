@@ -70,4 +70,13 @@ Quando necessario ricorriamo alla [documentazione ufficiale](https://www.ibm.com
 
 ![IDE](PASEsystem.png)
 
-  
+```
+bash-4.4$ system -h
+Utilizzo: system [-beEhiIkKnOpqsv] command
+```
+
+Esempio di utilizzo:
+
+```
+system 'DSPMSGD RANGE(CPF0001 CPF0099)' | grep -1 'Messaggio . . . :'
+```
