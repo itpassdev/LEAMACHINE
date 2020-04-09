@@ -17,7 +17,7 @@ I tradizionali progetti Jupyter Notebook sono ospitati come oggetti speciali al 
 
 Di fatto si tratta di un IDE per web. 
 
-![IDE](FORMAZIONE/JupyterLabFace.png)
+![IDE](JupyterLabFace.png)
 
 Ne studiamo prima gli aspetti standard e poi le possibilità di integrazione offerte verso il mondo IBM i.
 
