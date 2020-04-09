@@ -68,6 +68,6 @@ IT_IT
 
 Quando necessario ricorriamo alla [documentazione ufficiale](https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_74/rzalf/rzalfpasesystem.htm) relativa alla utilità in oggetto.
 
-[IDE](PASEsystem.png)
+![IDE](PASEsystem.png)
 
   
