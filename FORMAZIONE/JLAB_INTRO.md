@@ -31,3 +31,25 @@ SESSIONE INTERATTIVA
 ## Utilizzo specifico per IBM i 
 
 
+Potrà sembrare banale ma la prima cosa che appare ovvia a chiunque si sia confrontato con il mondo Open Source in ambito IBM i è che il **Terminal** offerto da JupyterLab è *eccezionale*. Risolve molte complessità all'utente finale supportando Unicode, le *Unix* pipe, il tunneling via WebSocket. 
+
+La impossibilità di supportare (ad oggi) **Jupyter Hub** frena gli entusiasmi per una adozione più estesa, ma per chi sviluppa è sicuramente una manna.
+
+Partiamo quindi da qui.
+
+Il panel standard con cui si avvia Jupyter Lab è il **Launcher**. In Inglese, *to launch* significa *avviare* quindi da questo pannello si avviano i diversi programmi che compongono l'IDE di Jupyter Lab.
+
+Icone giganti rappresentano i diversi programmi: queste sono organizzate in tre sezioni/raggruppamenti:
+
+* Notebook
+* Console
+* Other
+
+È nella terza sezione che troviamo **Terminal**.
+
+![IDE](JupyterLabTerminal.png)
+
+Ad ogni pressione del bottone viene avviata una nuova sessione di terminale che utilizzerà un panel dedicato. Avremo così Terminal 1, Terminal 2, e così via. Uno solo dei panel riceverà l'input della tastiera e sarà quello la cui etichetta non è grigia.  
+
+![IDE](JupyterLabActive.png)
+
