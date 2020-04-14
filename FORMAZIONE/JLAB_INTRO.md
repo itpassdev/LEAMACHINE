@@ -13,7 +13,7 @@ Alcuni cenni *storici* saranno utili e possono trovare un approfondimento in que
 
 **JupyterLab** costituisce la ultima generazione nella evoluzione del **Progetto Jupyter**. Offre i componenti base dello *Jupyter Notebook* classico (notebook, terminale, editor di testi, browser dei documenti, eccetera) in una interfaccia nuova, potente e flessibile.
 
-I tradizionali progetti Jupyter Notebook sono ospitati come oggetti speciali al pari di altri oggetti speciali: la gamma dei quali è in continua espansione grazie alla architettura aperta al contributo di terze parti.
+I tradizionali progetti Jupyter Notebook sono ospitati come oggetti speciali al pari di altri oggetti speciali: la lista dei quali è in continua espansione grazie alla architettura aperta e al contributo di terze parti.
 
 Di fatto si tratta di un IDE per web. 
 
@@ -26,6 +26,18 @@ Ne studiamo prima gli aspetti standard e poi le possibilità di integrazione off
 SESSIONE INTERATTIVA
 
 [Jupyter Lab on-air](http://gesis400:14143/lab?)
+
+È interessante osservare come la navigazione all'interno dei Notebook vada a braccetto con l'uso preferenziale della tastiera: la **keyboard** torna ad essere la via preferenziale per il conseguuimento della produttività.
+
+Vediamo innanzitutto dove reperire in autonomia informazioni sull'uso dei comandi. Sulla sinistra troviamo una lista di icone (sidebar verticale). Un click su una ciascuna di esse apre una sezione diversa. Un successivo click produce la contrazione della espansione originata all'apertura.
+Molto banalmente questo conduce al aumentare l'area utile per visualizzare la pagina coi lavori aperti.
+
+Abbiamo così:
+
+* un browser del percorso dell'IFS a cui l'avvio del servizio è stato ancorato
+* un monitor dello stato dei sotto-lavori attivati (terminali, notebook)
+* un  
+
 
 
 ## Utilizzo specifico per IBM i 
