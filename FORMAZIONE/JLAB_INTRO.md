@@ -45,7 +45,39 @@ Abbiamo così:
 * una lista con le **Open Tabs** ed infine
 * un **Extension Manager** che ci apre ad un modo di altre applicazioni installabili
 
+### Notebook
 
+# &#x238B; .vs. &#x23CE;
+I tasti **esc** e **return** alternano tra *Command Mode* e *Edit Mode*
+
+# y .vs. m .vs. r
+Quando siamo in *Command Mode*, i tasti **y**, **m** e **r** modificano il tipo di cella (*Code*, *Markdown* e *Raw* rispettivamente) 
+
+# a .vs. b
+Quando siamo in *Command Mode*, i tasti **a** e **b** inseriscono una cella nuova rispettivamente prima (**A**bove) o dopo (**B**elow) 
+
+# a .vs. b
+Quando siamo in *Command Mode*, i tasti **a** e **b** inseriscono una cella nuova rispettivamente prima (**A**bove) o dopo (**B**elow) 
+
+# shift + &#x23CE; .vs. ctrl + &#x23CE; .vs. opt + &#x23CE;
+Quando siamo in *Command Mode*, tutte e tre le combinazioni **eseguono** il contenuto delle celle selezionate (se *Code* interviene l'interprete Python; se *Markdown* si ha il rendering grafico). Con lo *shift* passo alla prossima cella (eventualmente creandone una se sono alla fine), con il *ctrl* resto nella stessa, con *opt* inserisco una nuova cella (sempre di tipo *Code*).
+
+# c &amp; v .vs. x
+*Copy* and *Paste* (vale anche per selezione multipla). Il *paste* può essere ripetuto.
+Con **x** si effettua un *Cat* che può essere seguito dal *Paste*
+
+# z
+*Undo* (ripetibile: recupera gli stati precedenti a ritroso)
+
+# dd
+*Delete*
+### &#x2325;
+
+# shift + k .vs. shift + j
+Estende la selezione verso l'*alto* o il *basso* (eventualmente riducendo: l'ancoraggio è la cella corrente)
+
+# shift + m
+*Merge* selected cells
 
 ## Utilizzo specifico per IBM i 
 
@@ -98,4 +130,5 @@ Esempio di utilizzo:
 
 ```
 system 'DSPMSGD RANGE(CPF0001 CPF0099)' | grep -1 'Messaggio . . . :'
+system 'DSPMSGD RANGE(CPF0001 CPF9999)' | grep    'Messaggio . . . :' | grep può > ElencoMsg.txt 
 ```
