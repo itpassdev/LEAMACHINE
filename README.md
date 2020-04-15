@@ -18,6 +18,8 @@ che è stato motivato nel seguente modo:
 
 ## PRESENTAZIONI
 
+* **16 Aprile 2020** *Webinar FAQ400* **Jupyter Lab su IBM i**: Python and AI per IBM i
+ 
 * **Milano, 21 Novembre 2019** *Python and Jupyter Notebook running in PASE*
 
 ## LINK INTERESSANTI
