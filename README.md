@@ -14,47 +14,33 @@ che è stato motivato nel seguente modo:
 
 ## INCONTRI
 
+* **Pesaro, 23 Aprile 2020** <br/>Secondo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 * **Pesaro, 19 Ottobre 2019** <br/>Primo incontro all'interno del *Workshop ITPASS*
-
 ## PRESENTAZIONI
 
 * **16 Aprile 2020** *Webinar FAQ400* **Jupyter Lab su IBM i**: Python and AI per IBM i
- 
 * **Milano, 21 Novembre 2019** *Python and Jupyter Notebook running in PASE*
 
 ## LINK INTERESSANTI
 
+
+* [Extending Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html)
 * [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) sull'uso dei comandi da tastiera
-
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
-
 * [Elements of AI](https://www.elementsofai.com/) A free online introduction to artificial intelligence for non-experts
 * [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) utile schematizzazione per capire il posizionamento relativo delle competenze che concorrono alla definizione di **data science**.
-
 * [How to Start With Machine Learning on IBM i](https://ibmsystemsmag.com/Power-Systems/11/2019/How-to-Start-ml-on-IBM-i) è il primo articolo di *Gan Zhang*, *Yong Qing Lu* e *Li Hua Zhao* che sono incaricati del tema Machine Learning su IBM i. E' stato pubblicato il 4 Novembre 2019.
-
 * [machinelearning su IBM i](https://github.com/IBM/ibmi-oss-examples/tree/master/machinelearning) sotto cartella GitHub del repository dedicato agli esempi di Open Source per IBM i.
-
 * [IBM i Gets An Influx Of Machine Learning Tooling](https://www.itjungle.com/2018/07/25/ibm-i-gets-an-influx-of-machine-learning-tooling/) è un editoriale pubblicato il 25 Luglio 2018 da *Alex Woodie* su *IT Jungle* in cui ci sono stralci di una intervista a *Jesse Gorzinski* (erroneamente indicato lungo tutto l'articolo come G**ro**zinski) in cui il risvolto più interessante è la menzione al primo impatto del rilascio in ambiente IBM i di Python (2015 all'interno del 5733-OPS). Alcuni clienti provarono subito ad installare i pacchetti Python dedicati al machine learning (non a caso il Machine Learning sembra essere il motivo propulsore del successo di Python degli ultimi anni) e gli sviluppatori IBM scoprirono che nessuno di essi (Numpy, Pandas, SciPy, ecc) riusciva a funzionare, neppure lontanamente.
-
 * [Installing and configuring Python machine learning packages on IBM AIX](https://developer.ibm.com/tutorials/machine-learning-with-python-on-aix/) tutorial per AIX che può essere adottato come traccia per realizzare un percorso di installazione simile su IBM i (autori: *Sanket Rathi - Phani Kumar Ayyagari*). Viene descritta l'installazione di **Jupyter Notebook** che è lo strumento adottato nel testo *Machine Learning For Dummies*. 
-
 * [September 24th](http://ibmsystemsmag.com/Power-Systems/8/2019/RPMs-and-YUM-on-IBM-i-7-1) articolo di *Kevin Adler* (e *Jesse Gorzinski*) che spiega perchè gli RPM dell'Open Source su IBM i verranno allineati tutti alla versione 7.2.
-
 * [IBM Q](http://ibmsystemsmag.com/Power-Systems/09/2019/get-started-with-IBM-q) articolo di *Jesse Gorzinski* da cui si evince che molte novità IBM passano ormai attraverso l'ambiente PASE.
-
 * [R Comes To i](https://www.itjungle.com/2019/05/01/r-comes-to-i/) è un editoriale pubblicato il 1° Maggio 2019 da *Alex Woodie* su *IT Jungle* in merito alla prima introduzione del linguaggio **R** su IBM i (sempre attraverso l'ambiente PASE)
-
 * [Dispense del Corso sul Machine Learning del Prof. Davide Maltoni](http://bias.csr.unibo.it/maltoni/ml/) dell'Università di Bologna -segnalate da Federico-
-
 * [MATLAB per il Machine Learning](https://it.mathworks.com/solutions/machine-learning.html) materiale -segnalato da Enzo- focalizzato su MATLAB e quindi relativo ad un ambiente integrato ad un prodotto SW non Open Source: tra i punti di forza si enfatizza la *esecuzione più rapida rispetto all’open source sulla maggior parte dei calcoli statistici e di machine learning*
-
 * [Analisi Comportamentale](https://www.bitmat.it/blog/news/89079/machine-learning-e-analisi-comportamentale), link suggerito da Enzo 
-
 * [From gnuplot to matplotlib](https://ds9a.nl/articles/posts/from-gnuplot-to-matplotlib-pandas/)
-
 * [seaborn](https://seaborn.pydata.org/index.html)
-
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) la intera pubblicazione è disponibile in formato Jupyter Notebook.
 
 
