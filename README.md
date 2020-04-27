@@ -42,6 +42,7 @@ che è stato motivato nel seguente modo:
 * [From gnuplot to matplotlib](https://ds9a.nl/articles/posts/from-gnuplot-to-matplotlib-pandas/)
 * [seaborn](https://seaborn.pydata.org/index.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) la intera pubblicazione è disponibile in formato Jupyter Notebook.
+* [Corso completo di Data Science e Machine Learning con Python](https://www.udemy.com/course/data-science-con-python/) Corso completo su piattaforma Udemy realizzato da Valentina Porcu che è una professionista del settore. Il corso sviluppato su circa 17,5 ore totali di videolezioni e affronta in modo dettagliato tematiche di Data Science e Python.
 
 
 ## TESTI INTERESSANTI
