@@ -14,8 +14,18 @@ che è stato motivato nel seguente modo:
 
 ## INCONTRI
 
-* **Pesaro, 23 Aprile 2020** <br/>Secondo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
+* **Italia, 30 Aprile 2020** <br/>Terzo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
+<br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Federico U., Riccardo P., Roberto dP.
+* **Italia, 23 Aprile 2020** <br/>Secondo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
+<br/>*Presenti*: Andrea R., Andrea V., Claudio G., Riccardo P.
+<br/>Giro di presentazioni, un poco di storia, idee, aspettative, disponibilità
+<br/>Spiegazione dell'uso di **GItHub** per la collaborazione all'interno di ITPASS
 * **Pesaro, 19 Ottobre 2019** <br/>Primo incontro all'interno del *Workshop ITPASS*
+
+## UTENZE GitHub
+
+
+
 ## PRESENTAZIONI
 
 * **16 Aprile 2020** *Webinar FAQ400* **Jupyter Lab su IBM i**: Python and AI per IBM i
