@@ -16,10 +16,12 @@ che è stato motivato nel seguente modo:
 
 * **Italia, 30 Aprile 2020** <br/>Terzo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 <br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Federico U., Riccardo P., Roberto dP.
+<br/>Spiegazione per l'utilizzo di **JupyterLab su IBM i** sul server Gesis messo a dispozizione da Enzo dB. 
+per le attività associative.
 * **Italia, 23 Aprile 2020** <br/>Secondo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 <br/>*Presenti*: Andrea R., Andrea V., Claudio G., Riccardo P.
 <br/>Giro di presentazioni, un poco di storia, idee, aspettative, disponibilità
-<br/>Spiegazione dell'uso di **GItHub** per la collaborazione all'interno di ITPASS
+<br/>Spiegazione dell'uso di **GitHub** per la collaborazione all'interno di ITPASS
 * **Pesaro, 19 Ottobre 2019** <br/>Primo incontro all'interno del *Workshop ITPASS*
 
 ## UTENZE GitHub
