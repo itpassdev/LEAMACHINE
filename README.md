@@ -14,6 +14,9 @@ che è stato motivato nel seguente modo:
 
 ## INCONTRI
 
+* **Italia, 7 Maggio 2020** <br/>Quarto incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
+<br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Riccardo P..
+<br/>Approfondimento su tematiche per l'utilizzo di **JupyterLab su IBM i**, installazione e verifica corretto funzionamento
 * **Italia, 30 Aprile 2020** <br/>Terzo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 <br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Enzo dB., Federico U., Riccardo P..
 <br/>Spiegazione per l'utilizzo di **JupyterLab su IBM i** sul server Gesis messo a dispozizione da Enzo dB. 
