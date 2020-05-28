@@ -229,6 +229,11 @@ I pacchetti per Python possono essere installati nella modalità Python (rispett
 Proviamo ad utilizzare alcuni pacchetti per testare il nostro ambiente.
 
 * [scikit-learn](hands_on/scikit-learn.md)
+* [pandas](hands_on/pandas.md)
+* [numpy](hands_on/numpy.md)
+* [matplotlib](hands_on/matplotlib.md)
+* [seaborn](hands_on/seaborn.md)
+
 
 
 
