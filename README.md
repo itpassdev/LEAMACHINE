@@ -66,6 +66,7 @@ per le attività associative.
 ## TESTI INTERESSANTI
 Elenco qui di seguito alcuni testi che nel corso degli anni ho acquistato per approfondire l'argomento: li elenco procedendo dal generale al particolare.
 
+* **L'analisi dei Big Data con Python** *Ivan Marin - Ankit Shukla - Sarang VK* Scritto da specialisti del campo. Focalizzato su Python e (prevalentemente) strumenti Open Source.
 * **A tu per tu col Machine Learning. L'incredibile viaggio di un developer nel favoloso mondo della Data Science** *Alessandro Cucci* <br/> Testo molto interessante segnalato da Claudio per la prospettiva di gestione progettuale della introduzione pratica del Machine Learning.
 * **INTELLIGENZA ARTIFICIALE** *Stuart Russell - Peter Norvig* <br/> Testo generale che abbraccia tutto il campo della Intelligenza Artificiale (il Machine Learning è trattato nel secondo volume)
 * **Foundations of Machine Learning** *Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar* <br/> Testo universitario della *MIT Press* per approfondire i riferimenti alla logica e alla matematica su cui il Machine Learning si basa... non sono andato oltre alla introduzione!
