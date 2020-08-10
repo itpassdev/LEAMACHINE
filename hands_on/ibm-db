@@ -1,4 +1,5 @@
+# ibm-db
 
-Molti esempi sono disponibili come script Python o più agilmente con notebook.
+[Sito ufficiale](https://github.com/ibmdb/python-ibmdb)
 
-I file con estensione ipynb offrono infatti la possibilità di rapido trasferimento tra diverse piattaforme e il recente supporto di Jupyter Notebook in ambito PASE estenderà le potenzialità di IBM i.
+Interfaccia Python per la connessione a IBM DB2
