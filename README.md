@@ -225,15 +225,15 @@ I pacchetti per Python possono essere installati nella modalità Python (rispett
 
 
 
-## HANDS ON
+## HANDS ON - LIBRERIE PYTHON SUPPORTATE
 
-Proviamo ad utilizzare alcuni pacchetti per testare il nostro ambiente.
+Di seguito i pacchetti che utilizziamo e che sono pienamente supportati nell'installazione ITPASS su IBMi per fare test e prove di analisi di dati:
 
 * [scikit-learn](hands_on/scikit-learn.md)
 * [pandas](hands_on/pandas.md)
 * [numpy](hands_on/numpy.md)
 * [matplotlib](hands_on/matplotlib.md)
-* [seaborn](hands_on/seaborn.md)
+* [ibm-db](hands_on/ibm-db.md)
 
 
 
