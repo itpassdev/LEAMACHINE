@@ -12,7 +12,12 @@ che è stato motivato nel seguente modo:
 
 **JupyterLab** è una interfaccia basata su web che rappresenta la naturale evoluzione di **Jupyter Notebook**.
 
-## INCONTRI
+## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
+
+<br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
+<br/>Vengono condivise le conoscenze acquisite sul progetto ed approfondite anche differenti tematiche della piattaforma IBM i
+
+## INCONTRI DI INIZIO PROGETTO
 
 * **Italia, 7 Maggio 2020** <br/>Quarto incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 <br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Riccardo P..
@@ -36,8 +41,9 @@ per le attività associative.
 
 ## PRESENTAZIONI
 
+*  **8 Settembre 2020** *ONLiNE DAYS FAQ400* **Python e JupyterLab su IBM i**: Python and AI per IBM i
 * **16 Aprile 2020** *Webinar FAQ400* **Jupyter Lab su IBM i**: Python and AI per IBM i
-* **Milano, 21 Novembre 2019** *Python and Jupyter Notebook running in PASE*
+* **21 Novembre 2019, Milano** *Python and Jupyter Notebook running in PASE*
 
 ## LINK INTERESSANTI
 
@@ -220,10 +226,6 @@ I pacchetti per Python possono essere installati nella modalità Python (rispett
   Requirement already satisfied: setuptools in /QOpenSys/pkgs/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib) (36.0.1)                                                                                                                             
   $                                                                                                                                
 ```
-
-### specifici per Machine Learning con Python
-
-
 
 ## HANDS ON - LIBRERIE PYTHON SUPPORTATE
 
