@@ -100,6 +100,8 @@ Il primo obiettivo di questo repository sarà documentare i passi per installare
 
 Partiamo dalla ipotesi che abbiate già installato **yum** sul vostro sistema IBM i (gli esempi sono basati su una versione 7.3)
 
+<note>Le indicazioni sono state rimosse perchè cresciute considerevolmente in termini di complessità ed essendo soggette a troppo frequenti necessità di aggiornamento: saranno oggetto di una parte del prossimo Webinar (8/9/2020)</note>
+
 <!---
 ### aggiornamento (update)
 
