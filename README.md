@@ -100,7 +100,7 @@ Il primo obiettivo di questo repository sarà documentare i passi per installare
 
 Partiamo dalla ipotesi che abbiate già installato **yum** sul vostro sistema IBM i (gli esempi sono basati su una versione 7.3)
 
-<!--
+<!---
 ### aggiornamento (update)
 
 Vogliamo procedere all'aggiornamento dei pacchetti installati.
@@ -122,13 +122,13 @@ Se non risultano conflitti si può procedere con l'aggiornamento:
 > /QOpenSys/pkgs/bin/yum update                                                 
   Impostazione processo di aggiornamento                                        
   Risoluzione dipendenze                                                        
-  --> Esecuzione del controllo di transazione                                   
-  ---> Package bash.ppc64 0:4.4-0 will be aggiornato                            
-  ---> Package bash.ppc64 0:4.4-1 will be an update                             
+  - - > Esecuzione del controllo di transazione                                   
+  - - - > Package bash.ppc64 0:4.4-0 will be aggiornato                            
+  - - - > Package bash.ppc64 0:4.4-1 will be an update                             
   . . .
-  ---> Package libutil2.ppc64 0:0.6.1-0 will be installato                          
-  ---> Package python2-iniparse.noarch 0:0.4-1 will be installato                   
-  --> Risoluzione delle dipendenze completata                                       
+  - - - > Package libutil2.ppc64 0:0.6.1-0 will be installato                          
+  - - - > Package python2-iniparse.noarch 0:0.4-1 will be installato                   
+  - - > Risoluzione delle dipendenze completata                                       
                                                                                     
   Dipendenze risolte                                                                
                                                                                     
@@ -233,7 +233,7 @@ I pacchetti per Python possono essere installati nella modalità Python (rispett
   Requirement already satisfied: setuptools in /QOpenSys/pkgs/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib) (36.0.1)                                                                                                                             
   $                                                                                                                                
 ```
--->
+--->
 
 ## HANDS ON - LIBRERIE PYTHON SUPPORTATE
 
