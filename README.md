@@ -2,15 +2,19 @@
 Appunti per il gruppo di studio sul Machine Learning
 
 ## GRUPPO DI STUDIO
-L'idea per un primo incontro (da svolgersi in Ottobre) va sotto il titolo:
+L'idea di un primo incontro per lanciare un gruppo di studio sul Machine Learning risale a Settembre 2019.
+L'incontro ebbe lugogo a Pesaro il 19 Ottobre 2019 sotto il titolo di:
 
 **Machine Learning tramite IBM i**
 
-che è stato motivato nel seguente modo:
+L'obiettivo dello studio venne descritto nel seguente modo:
 
 *a seguito dei più recenti rilasci di Python (e R) per IBM i sembra aprirsi la strada all'uso diretto (in ambito PASE) di strumenti di machine learning: vorremmo condividere insieme lo studio di questa tematica e valutare la possibilità di strutturare un metodo di lavoro che possa servire agli associati per proporsi sul mercato con competenze nuove.*
 
-**JupyterLab** è una interfaccia basata su web che rappresenta la naturale evoluzione di **Jupyter Notebook**.
+Inizialmente focalizzato sulla creazione di oggetti noti come **Jupyter Notebook**, si è successivamente specializzato sulla adozione di 
+**JupyterLab** quale interfaccia web standard per la condivisione di epserienze all'interno del gruppo.
+Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python essenziali allo scopo.
+
 
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
@@ -19,6 +23,9 @@ che è stato motivato nel seguente modo:
 
 ## INCONTRI DI INIZIO PROGETTO
 
+* **Italia, 27 Agosto 2020** <br/>Nuovo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
+<br/>*Prevista la presenza di*: Andrea R., Andrea V., Riccardo P., Roberto De Pedrini.
+<br/>Predisposizione argomenti per il Webinar dell'8 Settembre che sarà realizzato a tre voci.
 * **Italia, 7 Maggio 2020** <br/>Quarto incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
 <br/>*Prevista la presenza di*: Andrea R., Andrea V., Claudio G., Riccardo P..
 <br/>Approfondimento su tematiche per l'utilizzo di **JupyterLab su IBM i**, installazione e verifica corretto funzionamento
@@ -93,7 +100,7 @@ Il primo obiettivo di questo repository sarà documentare i passi per installare
 
 Partiamo dalla ipotesi che abbiate già installato **yum** sul vostro sistema IBM i (gli esempi sono basati su una versione 7.3)
 
-
+<!--
 ### aggiornamento (update)
 
 Vogliamo procedere all'aggiornamento dei pacchetti installati.
@@ -226,6 +233,7 @@ I pacchetti per Python possono essere installati nella modalità Python (rispett
   Requirement already satisfied: setuptools in /QOpenSys/pkgs/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib) (36.0.1)                                                                                                                             
   $                                                                                                                                
 ```
+-->
 
 ## HANDS ON - LIBRERIE PYTHON SUPPORTATE
 
