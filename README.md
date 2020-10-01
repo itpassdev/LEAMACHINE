@@ -19,15 +19,12 @@ Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gr
 
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
 La versione di **R** che IBM rende disponibile per PASE è la **3.5.1**.
+Cercheremo di seguire le [istruzioni](https://irkernel.github.io/installation/#source-panel)
 
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
 <br/>Vengono condivise le conoscenze acquisite sul progetto ed approfondite anche differenti tematiche della piattaforma IBM i
-
-```
-jupyter labextension install @techrah/text-shortcuts
-```
 
 ## INCONTRI DI INIZIO PROGETTO
 
