@@ -15,6 +15,9 @@ Inizialmente focalizzato sulla creazione di oggetti noti come **Jupyter Notebook
 **JupyterLab** quale interfaccia web standard per la condivisione di epserienze all'interno del gruppo.
 Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python essenziali allo scopo.
 
+### Sottogruppo focalizzato su R
+
+Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
 
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
