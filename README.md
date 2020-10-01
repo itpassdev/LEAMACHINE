@@ -18,6 +18,7 @@ Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gr
 ### Sottogruppo focalizzato su R
 
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
+La versione di **R** che IBM rende disponibile per PASE è la **3.5.1**.
 
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
