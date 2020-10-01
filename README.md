@@ -25,6 +25,10 @@ La versione di **R** che IBM rende disponibile per PASE è la **3.5.1**.
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
 <br/>Vengono condivise le conoscenze acquisite sul progetto ed approfondite anche differenti tematiche della piattaforma IBM i
 
+```
+jupyter labextension install @techrah/text-shortcuts
+```
+
 ## INCONTRI DI INIZIO PROGETTO
 
 * **Italia, 27 Agosto 2020** <br/>Nuovo incontro (virtuale) del gruppo di studio *ITPASS* sul Machine Learning
