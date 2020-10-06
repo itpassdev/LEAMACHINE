@@ -256,6 +256,27 @@ Di seguito i pacchetti che utilizziamo e che sono pienamente supportati nell'ins
 
 
 
+## CONFIGURAZIONE yum
+
+Sul server a disposizione per ITPASS è stata configurata l'opzione di sicurezza (`sslverify=1`) per cui i download sono
+protetti dal protocollo SSL.
+
+È stato poi introdotto un secondo repository in cui sono depositati alcuni dei pacchetti 
+pre-compilati a versioni più aggiornate di quelle disponibili sul sito IBM.
+
+```
+                        Gestione collegamenti oggetto                   
+                                                                        
+Indirizzario . . . :   /QOpenSys/etc/yum/repos.d                        
+                                                                        
+Immettere le opzioni e premere Invio.                                   
+  2=Modifica         3=Copia   4=Rimozione   5=Visualizz.   7=Ridenom.  
+  8=Attributi vis.   11=Modifica indirizzario corrente ...              
+                                                                        
+Opz.  Colleg. oggetto       Tipo    Attributo   Testo                   
+      andrearibuoli.repo    STMF                                        
+      ibm.repo              STMF                                        
+```
 
 
 
