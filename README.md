@@ -278,5 +278,44 @@ Opz.  Colleg. oggetto       Tipo    Attributo   Testo
       ibm.repo              STMF                                        
 ```
 
+Esempio di utilizzo per aggiornare la **bash 5.0**
 
-
+```
+  $                                                                                
+> yum install bash                                                                 
+  Impostazione processo di installazione                                           
+  Risoluzione dipendenze                                                           
+  --> Esecuzione del controllo di transazione                                      
+  ---> Package bash.ppc64 0:4.4-2 will be aggiornato                               
+  ---> Package bash.ppc64 0:5.0-0 will be an update                                
+  --> Risoluzione delle dipendenze completata                                      
+                                                                                   
+  Dipendenze risolte                                                               
+                                                                                   
+  ================================================================================ 
+   Pacchetto      Arch            Versione          Repository               Dim.  
+  ================================================================================ 
+  Aggiornamento:       
+   bash           ppc64           5.0-0             andrearibuoli           2.2 M   
+                                                                                    
+  Riepilogo della transazione                                                       
+  ================================================================================  
+  Upgrade       1 Package                                                           
+                                                                                    
+  Dimensione totale del download: 2.2 M                                             
+  Procedere [s/N]:                                                                  
+> s                                                                                 
+  Download dei pacchetti:                                                           
+  bash-5.0-0.ibmi7.3.ppc64.rpm                                | 2.2 MB  00:00       
+  Running Transaction Check                                                         
+  Test di transazione in corso                                                      
+  Test di transazione eseguito con successo                                         
+  Transazione in corso                                                              
+    Aggiornamento     : bash-5.0-0.ppc64                                      1/2   
+    Pulizia           : bash-4.4-2.ppc64                                      2/2   
+  Aggiornato:          
+    bash.ppc64 0:5.0-0 
+                      
+  Completo!            
+  $                                                                                                    
+```
