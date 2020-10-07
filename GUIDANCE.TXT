@@ -5,6 +5,14 @@ QCLSRC    JUPYTERLABCLP       Avvio JupyterLab
 QCLSRC    STRJUPYLABCLP       Avvio JupyterLab (SBMJOB)
 QPYSRC    HEREIAM   PY        plot_digits_classification.py
 QPYSRC    NB_CONFIG PY        jupyter_notebook_config.py
+QPYSRC    PORT_8888 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8894 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8895 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8896 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8897 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8898 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8899 PY        jupyter_notebook_config.py port
+QPYSRC    PORT_8900 PY        jupyter_notebook_config.py port
 QJSONSRC  PW_CONFIG JSON      jupyter_notebook_config.json
 QIPYNBSRC LEAMACH001JNB       Notebook: LeaMach0001.ipynb
 QIPYNBSRC ML4I      JNB       Notebook: ML4i.ipynb
