@@ -255,6 +255,12 @@ Di seguito i pacchetti che utilizziamo e che sono pienamente supportati nell'ins
 * [ibm-db](hands_on/ibm-db.md)
 
 
+## CONFIGURAZIONE gesis400
+
+Per aggiornare la versione dei programmi di utilità per l'avvio di **Jupyter Lab** nelle sessioni individuali: 
+
+`PASERIE/INSTALL GIT_USER(itpassdev) PACKAGEN(LEAMACHINE)`
+
 
 ## CONFIGURAZIONE yum
 
