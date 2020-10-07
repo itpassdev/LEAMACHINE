@@ -1,4 +1,5 @@
 QCLSRC    BUILD     CLP       Installazione
+QCLSRC    FINTO     CLP       Test assenza
 QCLSRC    JUPYTER   CLP       Avvio Jupyter Notebook
 QCLSRC    STRJUPYTERCLP       Avvio Jupyter Notebook (SBMJOB)
 QCLSRC    JUPYTERLABCLP       Avvio JupyterLab 
