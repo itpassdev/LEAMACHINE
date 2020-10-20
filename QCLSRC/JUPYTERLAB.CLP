@@ -7,8 +7,11 @@ ADDENVVAR ENVVAR(QIBM_MULTI_THREADED) VALUE('Y')
 MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(SHELL) VALUE('/QOpenSys/pkgs/bin/bash')
 MONMSG    MSGID(CPF0000)
+ADDENVVAR ENVVAR(JAVA_HOME) +
+  VALUE('/QOpenSys/QIBM/ProdData/JavaVM/jdk60/64bit')
+MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(PASE_PATH) +
- VALUE('/QOpenSys/pkgs/bin:/QOpenSys/usr/bin:/usr/ccs/bin:/usr/sbin:.:/usr/bin')
+  VALUE('/QOpenSys/pkgs/bin:/QOpenSys/usr/bin:/usr/ccs/bin:/usr/sbin:.:/usr/bin')
 MONMSG    MSGID(CPF0000)
 CALL      PGM(QP2SHELL) PARM('/QOpenSys/pkgs/bin/jupyter' 'lab')
 /* QSH       CMD('/QOpenSys/pkgs/bin/jupyter lab') */
