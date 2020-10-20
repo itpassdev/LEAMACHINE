@@ -8,7 +8,7 @@ MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(SHELL) VALUE('/QOpenSys/pkgs/bin/bash')
 MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(JAVA_HOME) +
-  VALUE('/QOpenSys/QIBM/ProdData/JavaVM/jdk60/64bit')
+  VALUE('/QOpenSys/QIBM/ProdData/JavaVM/jdk80/64bit')
 MONMSG    MSGID(CPF0000)
 ADDENVVAR ENVVAR(PASE_PATH) +
   VALUE('/QOpenSys/pkgs/bin:/QOpenSys/usr/bin:/usr/ccs/bin:/usr/sbin:.:/usr/bin')
