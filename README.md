@@ -15,11 +15,13 @@ Inizialmente focalizzato sulla creazione di oggetti noti come **Jupyter Notebook
 **JupyterLab** quale interfaccia web standard per la condivisione di epserienze all'interno del gruppo.
 Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python essenziali allo scopo.
 
-### Sottogruppo focalizzato su R
+## Introduciamo anche il linguaggio R
 
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
 La versione di **R** che IBM rende disponibile per PASE è la **3.5.1**.
-Cercheremo di seguire le [istruzioni](https://irkernel.github.io/installation/#source-panel)
+Abbiamo acquisito le conoscenze necessarie per realizzare una *build* di una versione molto recente (**4.0.3**) che è ora in grado di offrici le straordinarie possibilità di elaborazione.
+ 
+![R_con_JupyterLab](RJupyterLab.png)
 
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
