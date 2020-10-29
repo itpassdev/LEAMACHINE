@@ -327,3 +327,25 @@ Esempio di utilizzo per aggiornare la **bash 5.0**
   Completo!            
   $                                                                                                    
 ```
+
+## CONFIGURAZIONE Jupyter Lab
+
+Terminati tutti gli utilizzi, può rilevarsi utile reinizializzare l'ambiente jupyter:
+
+```
+  $                                                             
+> jupyter lab clean                                             
+  [LabCleanApp] Cleaning /QOpenSys/pkgs/share/jupyter/lab...    
+  [LabCleanApp] Removing staging...                             
+  [LabCleanApp] Success!                                        
+  $                                                             
+> jupyter lab build                                             
+  [LabBuildApp] JupyterLab 2.2.8                                
+  [LabBuildApp] Building in /QOpenSys/pkgs/share/jupyter/lab    
+  [LabBuildApp] Building jupyterlab assets (build:prod:minimize)
+  \                                                             
+```
+
+Sperabilmente, dopo un lungo alternarsi di `/`,`-`, `\` e `|`, dovrebbe risultare ricomposto l'ambiente per **Jupyter Lab**.
+
+Occorre solo avere *tanta* fiducia!  
