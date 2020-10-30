@@ -23,6 +23,10 @@ Abbiamo acquisito le conoscenze necessarie per realizzare una *build* di una ver
  
 ![R_con_JupyterLab](RJupyterLab.png)
 
+## Introduciamo anche l'utilità **plotly** disponibile sia in Python che R
+
+[In Python](FORMAZIONE/PlotlyExample.ipynb)
+
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
