@@ -81,6 +81,7 @@ per le attività associative.
 ## LINK INTERESSANTI
 
 * [Cheat Sheet per Python](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf) Utile segnalazione di Roberto G.
+* [Cheat Sheet per R](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) Sempre nell'ottica di aiutare la nostra memoria!
 * [Extending Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html)
 * [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) sull'uso dei comandi da tastiera
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
