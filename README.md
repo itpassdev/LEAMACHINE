@@ -40,6 +40,8 @@ Non viene chiaramente spiegato ma la installazione necessaria sottostante è que
 
 Sperimenteremo le due modalità di accesso.
 
+Utile riferimento per il nostro tema è [Databases using R](https://db.rstudio.com)
+
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
@@ -78,7 +80,7 @@ per le attività associative.
 
 ## LINK INTERESSANTI
 
-
+* [Cheat Sheet per Python](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf) Utile segnalazione di Roberto G.
 * [Extending Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html)
 * [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) sull'uso dei comandi da tastiera
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
