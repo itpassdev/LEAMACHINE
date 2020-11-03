@@ -27,6 +27,19 @@ Abbiamo acquisito le conoscenze necessarie per realizzare una *build* di una ver
 
 [In Python](FORMAZIONE/PlotlyExample.ipynb)
 
+### Accesso al DB2 da R
+
+Nell'articolo di *ITJungle* dedicato all'introduzione di R in ambito IBM i PASE, esiste la seguente sezione:
+
+*"IBM i shops will be able to use R to access data residing on Db2 for i using **RODBC**, a special version of the ODBC driver that was created especially for R. They can also use the newly delivered ODBC driver, IBM says."*
+
+Non viene chiaramente spiegato ma la installazione necessaria sottostante è quella di due diversi pacchetti in ambito CRAN.
+
+* [RODBC](https://cran.r-project.org/web/packages/RODBC/RODBC.pdf) 
+* [odbc](https://cran.r-project.org/web/packages/odbc/odbc.pdf)
+
+Sperimenteremo le due modalità di accesso.
+
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
@@ -353,3 +366,4 @@ Terminati tutti gli utilizzi, può rilevarsi utile reinizializzare l'ambiente ju
 Sperabilmente, dopo un lungo alternarsi di `/`,`-`, `\` e `|`, dovrebbe risultare ricomposto l'ambiente per **Jupyter Lab**.
 
 Occorre solo avere *tanta* fiducia!  
+
