@@ -3,7 +3,7 @@ Appunti per il gruppo di studio sul Machine Learning
 
 ## GRUPPO DI STUDIO
 L'idea di un primo incontro per lanciare un gruppo di studio sul Machine Learning risale a Settembre 2019.
-L'incontro ebbe lugogo a Pesaro il 19 Ottobre 2019 sotto il titolo di:
+L'incontro ebbe luogo a Pesaro il 19 Ottobre 2019 sotto il titolo di:
 
 **Machine Learning tramite IBM i**
 
