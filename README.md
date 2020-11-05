@@ -12,8 +12,8 @@ L'obiettivo dello studio venne descritto nel seguente modo:
 *a seguito dei più recenti rilasci di Python (e R) per IBM i sembra aprirsi la strada all'uso diretto (in ambito PASE) di strumenti di machine learning: vorremmo condividere insieme lo studio di questa tematica e valutare la possibilità di strutturare un metodo di lavoro che possa servire agli associati per proporsi sul mercato con competenze nuove.*
 
 Inizialmente focalizzato sulla creazione di oggetti noti come **Jupyter Notebook**, si è successivamente specializzato sulla adozione di 
-**JupyterLab** quale interfaccia web standard per la condivisione di epserienze all'interno del gruppo.
-Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python essenziali allo scopo.
+**JupyterLab** quale interfaccia web standard per la condivisione di esperienze all'interno del gruppo.
+Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python ed R essenziali allo scopo.
 
 ## Introduciamo anche il linguaggio R
 
