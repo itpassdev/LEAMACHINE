@@ -85,6 +85,7 @@ per le attività associative.
 * [Extending Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html)
 * [Working with Jupyter Notebook and JupyterHub on IBM Power Systems
 ](https://developer.ibm.com/technologies/systems/tutorials/jupyter-notebook-jupyterhub-power-systems/) Tutorial per l'architettura **ppc64le** con suggerimenti interessanti per installare kernel per il linguaggio **C** e per lo sviluppo di di script **bash**.
+* [Integrating SQL](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab) Il titpolo dell'articolo è più generico ma in questo nostro riferimento vogliamo valorizzare il focus sull'accesso assistito al linguaggio **SQL** nell'ambito *Jupyter Lab*.
 * [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) sull'uso dei comandi da tastiera
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). Articolo introduttivo a Jupyter Notebook con un buon inquadramento storico. Autori: *Quinn Dombrowski*, *Tassie Gniady* e *David Kloster*
 * [Elements of AI](https://www.elementsofai.com/) A free online introduction to artificial intelligence for non-experts
