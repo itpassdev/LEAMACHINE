@@ -20,7 +20,53 @@ Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gr
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
 La versione di **R** che IBM rende disponibile per PASE è la **3.5.1**.
 Abbiamo acquisito le conoscenze necessarie per realizzare una *build* di una versione molto recente (**4.0.3**) che è ora in grado di offrici le straordinarie possibilità di elaborazione.
+
+### Aggiunta supporto per R (per singolo utente) di Jupyter Lab
+
+Per avere a disposizione l'accesso grafico al supporto del linguaggio **R** procedete nel seguente modo.
+
+Dalla vostra utenza Jupyter Lab selezionate la funzione **Terminal**:
+
+![Terminale](Terminal.png)
  
+Dall'interno della sessione che viene ad aprirsi invocate la versione per linea comando dell'interprete **R**:
+
+```
+bash-5.0$ R
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: powerpc-ibm-aix6 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> 
+``` 
+ 
+Sulla linea comandi R invocate la funzione `IRkernel::installspec()`, al termine della quale chiudete con la chiamata `q()`.
+
+A questo punto effettuate il completo **Shut Down** di Jupyter Lab:
+
+![shut_down](ShutDown.png)
+
+Per farlo riavviare, una volta collegati con l'emulatore 5250, invocate `CALL STRJUPYLAB` dalla linea comando:
+
+![strjupylab](strjupylab.png)
+
+
+  
 ![R_con_JupyterLab](RJupyterLab.png)
 
 ## Introduciamo anche l'utilità **plotly** disponibile sia in Python che R
