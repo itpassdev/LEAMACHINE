@@ -88,6 +88,10 @@ Sperimenteremo le due modalità di accesso.
 
 Utile riferimento per il nostro tema è [Databases using R](https://db.rstudio.com)
 
+### Approfondimenti su Jupyter
+
+[Messaging e ZeroMQ](https://jupyter-client.readthedocs.io/en/stable/messaging.html)
+
 ## FREQUENZA INCONTRI DI APPROFONDIMENTO DEL GRUPPO DI STUDIO
 
 <br/>Gli incontri del gruppo di studio *ITPASS* si svolgono periodicamente ogni due settimana circa
