@@ -15,6 +15,13 @@ Inizialmente focalizzato sulla creazione di oggetti noti come **Jupyter Notebook
 **JupyterLab** quale interfaccia web standard per la condivisione di esperienze all'interno del gruppo.
 Grazie alla cortesia di un membro della associazione ITPASS, i componenti del gruppo di lavoro hanno accesso ad un server IBM i su Internet che viene mantenuto aggiornato in termini di pacchetti Python ed R essenziali allo scopo.
 
+## Integriamo anche il linguaggio Ruby
+
+Mediante la libreria **CZMQ** è stato possibile integrare anche la versione preliminare dell'interprete **Ruby 3.0.0**
+*preview1*:
+
+![](iruby-plotly.png) 
+
 ## Introduciamo anche il linguaggio R
 
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
