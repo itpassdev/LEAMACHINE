@@ -22,6 +22,9 @@ Mediante la libreria **CZMQ** è stato possibile integrare anche la versione pre
 
 ![](iruby-plotly.png) 
 
+Per attivare l'integrazione nella propria configurazione accedere alla applicazione `Terminal` ed eseguire il comando `iruby register --force`.
+Poi riavviare Juputer Lab (vedi passi simili per l'integrazione di R).
+
 ## Introduciamo anche il linguaggio R
 
 Abbiamo iniziato con la semplice installazione della versione di **R** disponibile per la comoda installazione via **yum**.
